@@ -1,0 +1,27 @@
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: rgb(155, 185, 224);
+  border: 2px dotted black;
+  padding: 3px;
+  margin: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.photos {
+  float: right;
+  width: 500px;
+  padding: 10px;
+}
+
+img {
+  width: 400px;
+  height: 200px;
+}
+
+p {
+  padding: 3px;
+}
